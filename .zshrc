@@ -92,10 +92,6 @@ export PATH
 export TOMCAT_WEBAPPS_DIR=/usr/local/Cellar/tomcat/8.5.11/libexec/webapps
 
 alias rebuild="rm -rf node_modules && rm package-lock.json && npm i"
-alias rmproduct="rm -rf /usr/local/Cellar/tomcat7/7.0.70/libexec/webapps/product"
-alias rmproductwar="rm -rf /usr/local/Cellar/tomcat7/7.0.70/libexec/webapps/product.war"
-alias rmstaticwar="rm -rf /usr/local/Cellar/tomcat7/7.0.70/libexec/webapps/static.war"
-alias rmstatic="rm -rf /usr/local/Cellar/tomcat7/7.0.70/libexec/webapps/static"
 alias nmbak="mv node_modules node_modules.bak"
 alias nmrmbak="rm -rf node_modules.bak"
 export CHROMEDRIVER_CDNURL=http://gec-maven-nexus.walmart.com/nexus/repository/googleapis-storage/chromedriver
