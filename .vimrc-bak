@@ -1,0 +1,11 @@
+" Enable line numbers
+set number
+" Enable syntax highlighting
+syntax on
+" Make tabs as wide as two spaces
+set tabstop=2
+" Always show status line
+set laststatus=2
+" Show the filename in the window titlebar
+set title
+
