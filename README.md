@@ -6,11 +6,11 @@ Install [nvm](https://github.com/nvm-sh/nvm)
 
 ### Node Setup
 * Use `nvm` nvm installation instructions
-* Use `node@8.8.x`: `nvm use node@8.8.x`
-* Use `npm@5.x.x`
+* Use `node@14.15.4`: `nvm use node@14.15.4`
+* Use `npm@6.14.10`
 * `nvm install stable`
 * `which node`
-* Global `nvm alias default 11.9`
+* Global `nvm alias default 14.15.4`
 
 __Forking and cloning repo locally__
 1. Fork the main repo: This can be done directly from the github ui.
